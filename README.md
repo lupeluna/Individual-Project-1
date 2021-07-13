@@ -71,14 +71,13 @@ ___________________________
 
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>
 
-### Executive Summary - Conclusions & Next Steps
+### Conclusions & Next Steps
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>
 
 > - Recommendations & next steps:
 
-
-
-
+ * I would like to collect data on microplastics in each body of water tested and predict how potabile the water would be with the microplastics.
+ * With more time, I would have worked with more hyperparameters to imporve the models
 
 
 
