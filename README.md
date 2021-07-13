@@ -12,7 +12,7 @@ _______________________
 
 ## Abstract
 
-Are you interested in the quality of potable water?  Water is a basic human right and clean access to it is vital to our survival.  The data used in this project are the quality metrics for 3276 different water bodies.  We will find out how drinkable the water and predict if water is safe to drink.  In this project, using the Classification Methodology, the Decision Tree ran the best model that beat the baseline on prediction of whether the water is potable or not.
+Are you interested in the quality of potable water?  Water is a basic human right and clean access to it is vital to our survival.  The data used in this project are the quality metrics for 3276 different water bodies.  We will find out how drinkable the water is and predict if water is safe to drink.  In this project, using the Classification Methodology, the Decision Tree ran the best model that beat the baseline on prediction of whether the water is potable or not.
 
 
 _______________________
