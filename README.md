@@ -1,6 +1,6 @@
 # Water-Potability-Project
-<img> {"A?":"A","a":5,"d":"B","h":"www.canva.com","c":"DAEkF6vsq9E","i":"tJaEdXzDhK5c2kyJXk-Y8Q","b":1626191984331,"A":{"B":{"A":{"A":"MADGv534REw","B":6},"B":{"A":-83.5,"B":-145.83598869700586,"D":1745.835988697006,"C":1164.2543749623158},"E":0.4,"D":{"A":-18,"B":-14,"E":50}},"C":"#0c0c0c"},"B":1600,"C":900}
-______________________
+<img> https://user-images.githubusercontent.com/80718680/125486994-cd5b009c-4dbe-4446-bef6-d1c2ef432897.png
+
 
 Hello,
 
