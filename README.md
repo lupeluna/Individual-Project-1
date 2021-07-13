@@ -1,11 +1,19 @@
 # Water-Potability-Project
+<img> {"A?":"A","a":5,"d":"B","h":"www.canva.com","c":"DAEkF6vsq9E","i":"tJaEdXzDhK5c2kyJXk-Y8Q","b":1626191984331,"A":{"B":{"A":{"A":"MADGv534REw","B":6},"B":{"A":-83.5,"B":-145.83598869700586,"D":1745.835988697006,"C":1164.2543749623158},"E":0.4,"D":{"A":-18,"B":-14,"E":50}},"C":"#0c0c0c"},"B":1600,"C":900}
 ______________________
 
 Hello,
 
 Welcome to the README file for my "Water Potability Project"
 
-Here, you will find my work on working through the pipeline and will also find the data dictionary to help offer more insight to the variables being used.
+Here, you will find my work on the water_potability.csv file which contains water quality metrics for 3276 different water bodies.  You will also find the data dictionary to help offer more insight to the variables being used.
+_______________________
+
+## Abstract
+
+Are you interested in the quality of potable water?  Water is a basic human right and clean access to it is vital to our survival.  The data used in this project are the quality metrics for 3276 different water bodies.  We will find out how drinkable the water and predict if water is safe to drink.
+
+
 
 _______________________
 
