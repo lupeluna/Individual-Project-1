@@ -1,5 +1,3 @@
-# Water-Potability-Project
-
 ![image](https://user-images.githubusercontent.com/80718680/125486994-cd5b009c-4dbe-4446-bef6-d1c2ef432897.png)
 
 
@@ -8,13 +6,13 @@ Hello,
 
 Welcome to the README file for my "Water Potability Project"
 
-Here, you will find my work on the water_potability.csv file which contains water quality metrics for 3276 different water bodies.  You will also find the data dictionary to help offer more insight to the variables being used.
+Here, you will find my work on the water_potability.csv file which contains water quality metrics for 3276 different water bodies.  You will also find the data dictionary to help offer more insight to the variables being used.  
+
 _______________________
 
 ## Abstract
 
-Are you interested in the quality of potable water?  Water is a basic human right and clean access to it is vital to our survival.  The data used in this project are the quality metrics for 3276 different water bodies.  We will find out how drinkable the water and predict if water is safe to drink.
-
+Are you interested in the quality of potable water?  Water is a basic human right and clean access to it is vital to our survival.  The data used in this project are the quality metrics for 3276 different water bodies.  We will find out how drinkable the water and predict if water is safe to drink.  In this project, using the Classification Methodology, the Decision Tree ran the best model that beat the baseline on prediction of whether the water is potable or not.
 
 
 _______________________
