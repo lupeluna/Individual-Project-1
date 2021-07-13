@@ -1,5 +1,5 @@
 # Water-Potability-Project
-![image] (https://user-images.githubusercontent.com/80718680/125486994-cd5b009c-4dbe-4446-bef6-d1c2ef432897.png)
+! [image] (https://user-images.githubusercontent.com/80718680/125486994-cd5b009c-4dbe-4446-bef6-d1c2ef432897.png)
 
 
 Hello,
