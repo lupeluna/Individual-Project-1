@@ -90,7 +90,7 @@ ___________________________
 
 ##### **Plan ->** Acquire -> Prepare -> Explore -> Model -> Deliver
 - [x] Create README.md with data dictionary, project and business goals, come up with initial hypotheses.
-- [x] Acquire data from the kaggle Database and create a function to automate this process. Save the function in an acquire.py file to import into the Final Report Notebook.
+- [x] Acquire data from [Kaggle](https://www.kaggle.com/adityakadiwal/water-potability?select=water_potability.csv)
 - [x] Clean and prepare data for the first iteration through the pipeline, MVP preparation. Create a function to automate the process, store the function in a prepare.py module, and prepare data in Final Report Notebook by importing and using the funtion.
 - [x]  Clearly define two hypotheses, set an alpha, run the statistical tests needed, reject or fail to reject the Null Hypothesis, and document findings and takeaways.
 - [x] Establish a baseline accuracy and document well.
