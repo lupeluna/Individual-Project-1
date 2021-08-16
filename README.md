@@ -6,7 +6,7 @@ Hello,
 
 Welcome to the README file for my "Water Potability Project"
 
-Here, you will find my work on the water_potability.csv file which contains water quality metrics for 3276 different water bodies.  You will also find the data dictionary to help offer more insight to the variables being used.  
+Here, you will find my work on the water_potability.csv file which contains water quality metrics for 3276 different bodies of water.  You will also find the data dictionary to help offer more insight to the variables being used.  
 
 _______________________
 
@@ -77,7 +77,7 @@ ___________________________
 > - Recommendations & next steps:
 
  * I would like to collect data on microplastics in each body of water tested and predict how potabile the water would be with the microplastics.
- * With more time, I would have worked with more hyperparameters to imporve the models
+ * With more time, I would have worked with more hyperparameters to improve the models
 
 
 
@@ -96,7 +96,7 @@ ___________________________
 - [x] Train two different classification models.
 - [x] Evaluate models on train and validate datasets.
 - [x] Choose the model with that performs the best and evaluate that single model on the test dataset.
-- [x] Create csv file with the water potability and the model's predictions.
+- [x] Create .csv file with the water potability and the model's predictions.
 - [x] Document conclusions, takeaways, and next steps in the Final Report Notebook.
 
 ___
@@ -129,8 +129,9 @@ ___
 
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>
 
-You will need your own env file with database credentials along with all the necessary files listed below to run my final project notebook. 
+You will need your own .env file with database credentials along with all the necessary files listed below to run my final project notebook. 
 - [X] Read this README.md
+- [ ] Download water_potability.csv file
 - [ ] Download the aquire.py, prepare.py, and Water_Potability_final.ipynb files into your working directory
 - [ ] Add your own env file to your directory. (user, password, host)
 - [ ] Run the Water_Potability_final.ipynb notebook
