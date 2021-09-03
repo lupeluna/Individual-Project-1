@@ -4,7 +4,6 @@ import warnings
 warnings.filterwarnings('ignore')
 
 import matplotlib.pyplot as plt
-from env import host, user, password
 from pydataset import data
 from scipy import stats
 from sklearn.model_selection import train_test_split
